@@ -1,6 +1,6 @@
 # Notes for Chapter 6
 
-* An ArrayList holds objects and not primitives, the compiler will automatically "wrap" a primitive into a object, and place that object in the ArrayList. ("unwrap" when taking out)
+* An ArrayList holds objects and not primitives, the compiler will automatically "wrap" a primitive into an object, and place that object in the ArrayList. ("unwrap" when taking out)
 
 * Import full name of a class except those in `java.lang`.
 
